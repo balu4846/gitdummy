@@ -22,6 +22,10 @@ public class Studentserices {
                 .orElseThrow(() -> new studentDataNotxceptipn());
     }
 
+    public void  dummy(){
+        System.out.println("im using coplit for tthis");
+    }
+
 
 }
 
